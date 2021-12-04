@@ -35,7 +35,7 @@ const Place = ({ place }: {
                     </View>
                     <View style={styles.locationContainer}>
                         <PlaceIcon />
-                        <Text style={styles.placeLocation}>São Paulo - SP</Text>
+                        <Text style={styles.placeLocation}>Rio de Janeiro</Text>
                     </View>
                 </View>
             </View>

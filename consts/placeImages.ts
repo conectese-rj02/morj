@@ -57,44 +57,38 @@ interface ImageProps {
 
 const placeImages: ImageProps[] = [
     {
-        id: 11,
-        image: require('../assets/images/gallery/president-erick-jacquin.jpg')
+        id: 1,
+        image: require('../assets/images/gallery/bondinho_pao_acucar.jpg'),
     }, {
         id: 2,
-        image: require('../assets/images/gallery/theatro-municipal.jpg')
-    }, {
-        id: 6,
-        image: require('../assets/images/gallery/beco-batman.jpg')
-    }, {
-        id: 10,
-        image: require('../assets/images/gallery/mercado-municipal.jpg')
-    }, {
-        id: 12,
-        image: require('../assets/images/gallery/museu-do-futebol.jpg')
-    }, {
-        id: 7,
-        image: require('../assets/images/gallery/pinacoteca.jpg')
-    }, {
-        id: 1,
-        image: require('../assets/images/gallery/masp.jpg')
-    }, {
-        id: 13,
-        image: require('../assets/images/gallery/museu-do-ipiranga.jpg')
-    }, {
-        id: 5,
-        image: require('../assets/images/gallery/autodromo-interlagos.jpg')
+        image: require('../assets/images/gallery/corcovado.jpg'),
     }, {
         id: 3,
-        image: require('../assets/images/gallery/museu-videogame.jpg')
+        image: require('../assets/images/gallery/estadio_laranjeiras.jpg'),
     }, {
         id: 4,
-        image: require('../assets/images/gallery/parque-ibirapuera.jpg')
+        image: require('../assets/images/gallery/estadio_nilton_santos.jpg'),
+    }, {
+        id: 5,
+        image: require('../assets/images/gallery/feira_sao_cristovao.jpg'),
+    }, {
+        id: 6,
+        image: require('../assets/images/gallery/galeria_ipanema.jpg'),
+    }, {
+        id: 7,
+        image: require('../assets/images/gallery/maracana.jpg'),
     }, {
         id: 8,
-        image: require('../assets/images/gallery/aquario.jpg')
+        image: require('../assets/images/gallery/museu_do_amanha.jpg'),
     }, {
         id: 9,
-        image: require('../assets/images/gallery/avenida-paulista.jpg'),
+        image: require('../assets/images/gallery/parque_das_ruinas.jpg'),
+    }, {
+        id: 10,
+        image: require('../assets/images/gallery/parque_lage.jpg'),
+    }, {
+        id: 11,
+        image: require('../assets/images/gallery/praia_copacabana.jpg'),
     },
 ];
 
